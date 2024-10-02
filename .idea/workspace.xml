@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c72ab72-be64-4736-b018-87ecb9cc8418" name="Changes" comment="ajout html-css">
-      <change afterPath="$PROJECT_DIR$/projet 2/normalizecss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/code html_cv.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/html_kenzo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/étape 1.html" beforeDir="false" />
-    </list>
+    <list default="true" id="8c72ab72-be64-4736-b018-87ecb9cc8418" name="Changes" comment="ajout normalize et terminé basse index_html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -71,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1727852119148</updated>
-      <workItem from="1727852120240" duration="702000" />
+      <workItem from="1727852120240" duration="1288000" />
     </task>
     <task id="LOCAL-00001" summary="ajout html-css">
       <option name="closed" value="true" />
@@ -81,7 +71,23 @@
       <option name="project" value="LOCAL" />
       <updated>1727852339174</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ajout normalize et terminé basse index_html">
+      <option name="closed" value="true" />
+      <created>1727853264659</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727853264659</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ajout normalize et terminé basse index_html">
+      <option name="closed" value="true" />
+      <created>1727853390192</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727853390192</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +97,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="ajout html-css" />
-    <option name="LAST_COMMIT_MESSAGE" value="ajout html-css" />
+    <MESSAGE value="ajout normalize et terminé basse index_html" />
+    <option name="LAST_COMMIT_MESSAGE" value="ajout normalize et terminé basse index_html" />
   </component>
 </project>
